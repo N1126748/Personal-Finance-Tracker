@@ -10,7 +10,7 @@ git clone <repo-url>
 
 ```bash
 pip install pandas
-pip inastall matplotlib
+pip install matplotlib
 ```
 
 ## Running The App
